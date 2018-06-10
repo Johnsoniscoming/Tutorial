@@ -1,0 +1,9 @@
+D:\Coding\C#\Tutorial\class\class\bin\Debug\@class.exe.config
+D:\Coding\C#\Tutorial\class\class\bin\Debug\@class.exe
+D:\Coding\C#\Tutorial\class\class\bin\Debug\@class.pdb
+D:\Coding\C#\Tutorial\class\class\obj\Debug\class.csprojResolveAssemblyReference.cache
+D:\Coding\C#\Tutorial\class\class\obj\Debug\class.Form1.resources
+D:\Coding\C#\Tutorial\class\class\obj\Debug\class.Properties.Resources.resources
+D:\Coding\C#\Tutorial\class\class\obj\Debug\class.csproj.GenerateResource.Cache
+D:\Coding\C#\Tutorial\class\class\obj\Debug\@class.exe
+D:\Coding\C#\Tutorial\class\class\obj\Debug\@class.pdb

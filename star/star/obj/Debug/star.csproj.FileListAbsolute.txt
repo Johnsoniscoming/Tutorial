@@ -1,0 +1,9 @@
+D:\Coding\C#\Tutorial\star\star\bin\Debug\star.exe.config
+D:\Coding\C#\Tutorial\star\star\bin\Debug\star.exe
+D:\Coding\C#\Tutorial\star\star\bin\Debug\star.pdb
+D:\Coding\C#\Tutorial\star\star\obj\Debug\star.csprojResolveAssemblyReference.cache
+D:\Coding\C#\Tutorial\star\star\obj\Debug\star.Form1.resources
+D:\Coding\C#\Tutorial\star\star\obj\Debug\star.Properties.Resources.resources
+D:\Coding\C#\Tutorial\star\star\obj\Debug\star.csproj.GenerateResource.Cache
+D:\Coding\C#\Tutorial\star\star\obj\Debug\star.exe
+D:\Coding\C#\Tutorial\star\star\obj\Debug\star.pdb

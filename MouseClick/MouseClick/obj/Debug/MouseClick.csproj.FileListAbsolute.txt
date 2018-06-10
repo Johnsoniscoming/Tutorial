@@ -1,0 +1,9 @@
+D:\Coding\C#\Tutorial\MouseClick\MouseClick\bin\Debug\MouseClick.exe.config
+D:\Coding\C#\Tutorial\MouseClick\MouseClick\bin\Debug\MouseClick.exe
+D:\Coding\C#\Tutorial\MouseClick\MouseClick\bin\Debug\MouseClick.pdb
+D:\Coding\C#\Tutorial\MouseClick\MouseClick\obj\Debug\MouseClick.csprojResolveAssemblyReference.cache
+D:\Coding\C#\Tutorial\MouseClick\MouseClick\obj\Debug\MouseClick.Form1.resources
+D:\Coding\C#\Tutorial\MouseClick\MouseClick\obj\Debug\MouseClick.Properties.Resources.resources
+D:\Coding\C#\Tutorial\MouseClick\MouseClick\obj\Debug\MouseClick.csproj.GenerateResource.Cache
+D:\Coding\C#\Tutorial\MouseClick\MouseClick\obj\Debug\MouseClick.exe
+D:\Coding\C#\Tutorial\MouseClick\MouseClick\obj\Debug\MouseClick.pdb

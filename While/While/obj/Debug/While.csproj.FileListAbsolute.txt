@@ -1,0 +1,8 @@
+D:\Coding\C#\Tutorial\While\While\bin\Debug\While.exe.config
+D:\Coding\C#\Tutorial\While\While\bin\Debug\While.exe
+D:\Coding\C#\Tutorial\While\While\bin\Debug\While.pdb
+D:\Coding\C#\Tutorial\While\While\obj\Debug\While.Form1.resources
+D:\Coding\C#\Tutorial\While\While\obj\Debug\While.Properties.Resources.resources
+D:\Coding\C#\Tutorial\While\While\obj\Debug\While.csproj.GenerateResource.Cache
+D:\Coding\C#\Tutorial\While\While\obj\Debug\While.exe
+D:\Coding\C#\Tutorial\While\While\obj\Debug\While.pdb
