@@ -18,5 +18,7 @@ namespace Gomoku_Demo
             this.Size = new Size(Image_Width, Image_Width);
             this.SizeMode = PictureBoxSizeMode.StretchImage;
         }
+
+        public abstract PieceType GetPieceType();
     }
 }

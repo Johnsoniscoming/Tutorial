@@ -12,5 +12,9 @@ namespace Gomoku_Demo
         {
             this.Image = Properties.Resources.white;
         }
+        public override PieceType GetPieceType()
+        {
+            return PieceType.WHITE;
+        }
     }
 }

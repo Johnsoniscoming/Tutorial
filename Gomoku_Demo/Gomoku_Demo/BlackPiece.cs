@@ -11,8 +11,11 @@ namespace Gomoku_Demo
     {
         public BlackPiece(int x, int y):base(x,y)
         {
-            this.Image = Properties.Resources.black;
-            
+            this.Image = Properties.Resources.black;            
+        }
+        public override PieceType GetPieceType()
+        {
+            return PieceType.BLACK;
         }
     }
 }
